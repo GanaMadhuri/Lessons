@@ -6,7 +6,7 @@ Created on Fri May 10 09:38:21 2019
 """
 
 start = int(input("Enter the start range: "))
-end = int(input("Enter the end range: "))
+end = int(input("Enter the start range: "))
 step = int(input("Enter the skip beat that you want:  "))
 value = []
 for i in range(start,end,step):
