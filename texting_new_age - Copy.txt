@@ -1,0 +1,5 @@
+HELLO ALLEXA!!!
+HELLO SIRI!!!
+HELLO CORTAZONA!!!
+HELLO SOPHIA!!!
+listed = [Alexa,Siri,Cortazona,Sophia]

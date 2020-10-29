@@ -1,0 +1,5 @@
+UserName = M.Dawson , password = secret , security = 3
+UserName = S.Meier , password = civilization , security = 3
+UserName = S.Miyamoto , password = mariobros , security = 3
+UserName = W.Wright , password = thesims , security = 3
+UserName = "guest" or password = "guest"
